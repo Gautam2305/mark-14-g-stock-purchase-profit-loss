@@ -44,3 +44,24 @@ label {
     text-align:center;
     
 }
+.footer {
+    padding-bottom: 1rem;
+  
+    text-align: center;
+    color: white;
+    position: fixed;
+      bottom: 0;
+      width: 100%
+  }
+.footer .link {
+    color: white;
+  }
+  .list-non-bullet {
+    list-style: none;
+  }
+  
+  .list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+    font-weight: bold;
+  }
