@@ -35,3 +35,12 @@ label {
     padding: 0.5rem;
     border-radius: 0.4rem;
 }
+#output {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    padding: 1rem;
+    color:white;
+    display:block;
+    text-align:center;
+    
+}
